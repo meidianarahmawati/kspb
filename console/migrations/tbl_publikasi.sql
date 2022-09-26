@@ -1,0 +1,14 @@
+INSERT INTO `tbl_publikasi`(`title`, `content`, `src`, `tags`, `filetype`) VALUES ('Tips COVID-19','','images/downloadable/insta1.jpg','tips prosedur','image');
+INSERT INTO `tbl_publikasi`(`title`, `content`, `src`, `tags`, `filetype`) VALUES ('Pengumuman','','images/downloadable/insta2.jpg','prosedur','image');
+INSERT INTO `tbl_publikasi`(`title`, `content`, `src`, `tags`, `filetype`) VALUES ('SK GUGUS TUGAS COVID-19 KSPB','','images/downloadable/SK%20GUGUS%20TUGAS%20COVID-19%20KSPB.docx','prosedur file','word');
+INSERT INTO `tbl_publikasi`(`title`, `content`, `src`, `tags`, `filetype`) VALUES ('Panduan Pengisian Daftar Mobilitas','','images/downloadable/insta3a.jpg','prosedur','image');
+INSERT INTO `tbl_publikasi`(`title`, `content`, `src`, `tags`, `filetype`) VALUES ('Panduan Pengisian Daftar Mobilitas','','images/downloadable/insta3b.jpg','prosedur','image');
+INSERT INTO `tbl_publikasi`(`title`, `content`, `src`, `tags`, `filetype`) VALUES ('Panduan Pengisian Daftar Mobilitas','','images/downloadable/insta3c.jpg','prosedur','image');
+INSERT INTO `tbl_publikasi`(`title`, `content`, `src`, `tags`, `filetype`) VALUES ('Panduan Pengisian Daftar Mobilitas','','images/downloadable/insta3d.jpg','prosedur','image');
+INSERT INTO `tbl_publikasi`(`title`, `content`, `src`, `tags`, `filetype`) VALUES ('Aktivitas Anti Stress di Rumah','','images/downloadable/insta4a.jpg','tips','image');
+INSERT INTO `tbl_publikasi`(`title`, `content`, `src`, `tags`, `filetype`) VALUES ('Aktivitas Anti Stress di Rumah','','images/downloadable/insta4b.jpg','tips','image');
+INSERT INTO `tbl_publikasi`(`title`, `content`, `src`, `tags`, `filetype`) VALUES ('Aktivitas Anti Stress di Rumah','','images/downloadable/insta4c.jpg','tips','image');
+INSERT INTO `tbl_publikasi`(`title`, `content`, `src`, `tags`, `filetype`) VALUES ('Aktivitas Anti Stress di Rumah','','images/downloadable/insta4d.jpg','tips','image');
+INSERT INTO `tbl_publikasi`(`title`, `content`, `src`, `tags`, `filetype`) VALUES ('Tips Belanja Online Bebas COVID-19','','images/downloadable/insta5a.jpeg','tips','image');
+INSERT INTO `tbl_publikasi`(`title`, `content`, `src`, `tags`, `filetype`) VALUES ('Tips Belanja Online Bebas COVID-20','','images/downloadable/insta5b.jpeg','tips','image');
+INSERT INTO `tbl_publikasi`(`title`, `content`, `src`, `tags`, `filetype`) VALUES ('Tips Belanja Online Bebas COVID-21','','images/downloadable/insta5c.jpeg','tips','image');
